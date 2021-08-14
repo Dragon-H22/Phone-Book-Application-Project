@@ -4,8 +4,8 @@
 - Each contact has personal information such as( Name, Gender, Phone Number, Email, ... ) are asked while adding a new contact.
 - The project also has options to delete and modify the entered contact number and his personal information.
 
-
-|      Daemon Demons Team      | 
+## Daemon Demons Team
+|         Team Members         | 
 | ---------------------------- | 
 |        *Hosam Hatem*         | 
 |      *Bassant Hossam*        | 
