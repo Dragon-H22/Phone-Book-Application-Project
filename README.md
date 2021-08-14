@@ -4,7 +4,7 @@
 - Each contact has personal information such as( Name, Gender, Phone Number, Email, ... ) are asked while adding a new contact.
 - The project also has options to delete and modify the entered contact number and his personal information.
 
-|         Team Memmber         | 
+|          Team Member         | 
 | ---------------------------- | 
 |        *Hosam Hatem*         | 
 |      *Bassant Hossam*        | 
