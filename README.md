@@ -6,7 +6,7 @@
 
 |         Team Memmber         | 
 | ---------------------------- | 
-|   *Hosam Hatem Abd-elbaky*   | 
+|        *Hosam Hatem*         | 
 |      *Bassant Hossam*        | 
 |        *Omar Khaled*         | 
 |         *Aya Usama*          | 
