@@ -15,7 +15,7 @@
 
 
 
-<br><
+<br>
 <details>
   <summary>:zap: Dimo Video</summary>
   https://youtu.be/xt7vWJeFcfg
