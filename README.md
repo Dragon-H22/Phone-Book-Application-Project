@@ -17,7 +17,7 @@
 
 <br>
 <details>
-  <summary>:zap: Dimo Video</summary>
+  <summary>:zap: Demo Video</summary>
   https://youtu.be/xt7vWJeFcfg
 </details>
 
